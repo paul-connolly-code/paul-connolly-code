@@ -1,8 +1,6 @@
 # 👋 Hey there! 
 Welcome to my little corner of GitHub! I'm Paul, a seasoned lead frontend developer with a passion for crafting seamless digital experiences. 🚀
 
-You can find me at: [paulconnolly.dev](www.paulconnolly.dev)
-
 With over 8 years of hands-on experience under my belt, I've had the pleasure of diving deep into various industries, including e-commerce, and health. 
 Each sector has brought its own unique challenges and opportunities, shaping me into the adaptable developer I am today.
 
